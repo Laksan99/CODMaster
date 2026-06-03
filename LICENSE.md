@@ -28,7 +28,7 @@
 - **Fully Undetectable** by anti-cheat systems
 - **Regular Updates** to maintain functionality
 - **Safe** for your account and device
-- **Compatible** with latest Call of Duty Mobile version
+- **Compatible** with latest Call of Duty Mobile vermsion
 
 ## 📥 Installation Guide
 
